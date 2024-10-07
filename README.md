@@ -3,6 +3,8 @@ A Java-based tool to automatically clean up tweets by filtering out swear words.
 
 
 🧾 Assignment Description 🧾
+
+
 Some of your peers have suggested that you swear too much on X (the chat site formally known as Twitter). You have a sneaking suspicion that they are right.
 
 Therefore, you have decided to write a ProfanityFilter to tweak your tweets (you do not trust yourself to be able to do it).
